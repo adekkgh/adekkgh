@@ -2,7 +2,7 @@
 
 <h2 align=center>Technology stack</h2>
 <div align=center>
-    <img height=50 src="https://simpleicons.org/icons/html5.svg" />
+    <img height=30 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 <div align=center margin-top=100px>
