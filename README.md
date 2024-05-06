@@ -1,4 +1,4 @@
-<img width=100% src="https://ibb.co/GswMX5D" />
+<img width=100% src="https://i.ibb.co/4syScVL/banner.png" />
 
 <h2>Technology stack</h2>
 <div>
