@@ -7,9 +7,26 @@
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg" />
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" />
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
-    <img height=40 src="" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" />
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webstorm/webstorm-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original-wordmark.svg" />
+    <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original-wordmark.svg" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
+    <img height=40 src="" />
 </div>
 
 <div align=center margin-top=100px>
