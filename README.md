@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/adekkgh">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekkgh&layout=compact&langs_count=8" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekkgh&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/adekkgh">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=adekkgh&rank_icon=github&hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adekkgh&layout=compact" />
   </a>
 </div>
