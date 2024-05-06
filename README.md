@@ -22,6 +22,6 @@
 </div>
 
 <div align=center>
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekkgh&layout=compact&langs_count=8&theme=dark#gh-light-mode-only" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=adekkgh&rank_icon=github&hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekkgh&layout=compact&langs_count=8&theme=dark" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=adekkgh&rank_icon=github&hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark" />
 </div>
