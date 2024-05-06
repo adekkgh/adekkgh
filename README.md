@@ -2,7 +2,7 @@
 
 <h2 align=center>Technology stack</h2>
 <div align=center>
-    <img heigth=50 src="https://simpleicons.org/icons/html5.svg" />
+    <img height=50 src="https://simpleicons.org/icons/html5.svg" />
 </div>
 
 <div align=center margin-top=100px>
