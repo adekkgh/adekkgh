@@ -1,4 +1,4 @@
-<img src="[wallpaperflare.com_wallpaper.jpg](https://c4.wallpaperflare.com/wallpaper/457/840/957/adventure-time-jake-the-dog-wallpaper-preview.jpg)" />
+<img src="https://c4.wallpaperflare.com/wallpaper/457/840/957/adventure-time-jake-the-dog-wallpaper-preview.jpg" />
 
 <div>
   <a href="https://github.com/adekkgh">
