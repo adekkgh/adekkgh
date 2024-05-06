@@ -1,4 +1,4 @@
-<img width=100% src="blob:https://web.telegram.org/4942c363-12cc-4126-9cdb-c3221f4a969d" />
+<img width=100% src="https://web.telegram.org/a65ad819-cf3e-4b28-bc03-51bd32b07b9b" />
 
 <h2>Technology stack</h2>
 <div>
