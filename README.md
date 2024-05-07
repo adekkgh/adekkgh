@@ -16,7 +16,7 @@
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" />
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" />
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" />
-    <img height=50 src="https://p7.hiclipart.com/preview/551/770/413/github-pages-logo-repository-fork-github-thumbnail.jpg#gh-dark-mode-only" />
+    <img height=50 src="https://i.ibb.co/xCD6vSf/removal-ai-d3799b6e-a461-4163-8e5d-be27c4c0d7fe-png-clipart-github-pages-logo-repository-fork-github.png#gh-dark-mode-only" />
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg#gh-light-mode-only" />
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" />
     <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" />
