@@ -1,7 +1,7 @@
 <img width=100% src="https://i.ibb.co/4syScVL/banner.png" />
 
 <h1>Hey! I'm Arsen 👋</h1>
-<h3>Still working on my profile look, so it's not all there is to it 😴</h3>
+<p>Still working on my profile look, so it's not all there is to it 😴</p>
 
 <h2 align=center>Technology stack 💻</h2>
 <div align=center>
