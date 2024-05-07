@@ -12,9 +12,6 @@
 ```
 
 <h2>Contact me hear 📬</h2>
-<div align=center>
-    <a href="mailto:contact@adekk.ru">mail</a>
-</div>
 
 <h2 align=center>Technology stack 💻</h2>
 <div align=center>
