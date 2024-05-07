@@ -1,6 +1,6 @@
 <img width=100% src="https://i.ibb.co/4syScVL/banner.png" />
 
-<h2 align=center>Technology stack</h2>
+<h2 align=center>Technology stack 💻</h2>
 <div align=center>
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" />
@@ -21,6 +21,7 @@
     <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" />
 </div>
 
+<h2 align=center>Profile stats 📊</h2>
 <div align=center>
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekkgh&layout=compact&langs_count=8&theme=dark" />
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=adekkgh&rank_icon=github&hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark" />
