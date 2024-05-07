@@ -1,14 +1,20 @@
 <img width=100% src="https://i.ibb.co/4syScVL/banner.png" />
 
-<h1>Hey! I'm Arsen 👋</h1>
+<h1 align=center>Hey! I'm Arsen 👋</h1>
 <p>Still working on my profile look, so it's not all there is to it 😴</p>
 
 ```
 <script lang="ts">
     let name: string = Arsen Gioev;
     let age: number = 20;
+    //in progress..
 </script>
 ```
+
+<h2>Contact me hear 📬</h2>
+<div align=center>
+    <a href="mailto:contact@adekk.ru">mail</a>
+</div>
 
 <h2 align=center>Technology stack 💻</h2>
 <div align=center>
