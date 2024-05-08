@@ -11,7 +11,7 @@
 </script>
 ```
 
-<h2 align=center>Contact me hear 📬</h2>
+<h2 align=center>Contact me here 📬</h2>
 
 <h2 align=center>Technology stack 💻</h2>
 <div align=center>
