@@ -5,7 +5,7 @@
 
 ```
 <script lang="ts">
-    const name: string = Arsen Gioev;
+    const name: string = 'Arsen Gioev';
     let age: number = 20;
     //in progress..
 </script>
