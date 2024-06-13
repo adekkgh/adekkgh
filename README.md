@@ -1,4 +1,4 @@
-<img width=100% src="https://ibb.co/T4YGsK5" />
+<img width=100% src="https://i.ibb.co/zXQgz8w/banner.png" />
 
 <h1 align=center>Hey! I'm Arsen 👋</h1>
 <p>Still working on my profile look, so it's not all there is to it 😴</p>
